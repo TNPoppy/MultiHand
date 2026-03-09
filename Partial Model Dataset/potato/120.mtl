@@ -1,0 +1,10 @@
+newmtl m1
+  illum 4
+  Ka 0.2 0.2 0.2
+  Kd 1 1 1
+  Ks 0 0 0
+  Tf 1.00 1.00 1.00
+  map_Kd 2.png
+  Hue 0
+  Saturation 38
+  Brightness -15
