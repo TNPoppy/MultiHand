@@ -1,0 +1,11 @@
+newmtl m1
+  illum 4
+  Ka 0.78 0.78 0.78
+  Kd 1 1 1
+  Ks 0.5 0.5 0.5
+  Tf 1.00 1.00 1.00
+  map_Kd 46.png
+  Hue 0
+  Saturation 0
+  Brightness 17
+  version  5.1.0.6
